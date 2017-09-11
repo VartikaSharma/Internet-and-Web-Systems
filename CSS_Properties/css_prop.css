@@ -1,0 +1,26 @@
+body{
+	background-color: #dae8e8;
+}
+.main>h2{
+	width:100%;
+	height:60px;
+	background-color: #76cac7;
+	border-radius: 5px;
+	padding-top:25px;
+	padding-left: 8px;
+	margin-top:-5px;
+}
+.desc{
+	width:100%;
+	background-color: #76cac7;
+	border-radius: 5px;
+}
+
+.desc>h4{
+	padding-left: 8px;
+	padding-top: 10px;
+}
+
+.desc>p{
+	padding-left: 8px;
+}
